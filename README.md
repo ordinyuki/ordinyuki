@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://raw.githubusercontent.com/ordinyuki/ordinyuki/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **ordinyuki/ordinyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
